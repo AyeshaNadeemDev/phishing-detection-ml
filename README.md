@@ -17,6 +17,19 @@ This project uses a CSV dataset named `phishing_dataset.csv`.
 > Note: Ensure your dataset is placed inside the `/data` folder.
 
 ---
+## 🧠 Skills & Technologies Used
+
+- **Machine Learning:** 
+  - Logistic Regression, Naive Bayes, Random Forest, etc.
+- **Libraries & Frameworks:**
+  - **Scikit-learn** for model training and evaluation
+  - **Pandas** for data manipulation
+  - **NumPy** for numerical computations
+  - **Matplotlib & Seaborn** for data visualization
+- **Text Processing:**
+  - **TF-IDF** for text vectorization
+  - **NLTK** or **spaCy** for natural language processing (optional)
+---
 
 ## 🧠 Model Details
 
